@@ -17,6 +17,7 @@ body {
   font-weight: 400;
   font-family: "Helvetica Neue", "Open Sans", "Arial", sans-serif;
   color: #000;
+  background-color: #fff8dc7d;
   line-height: 1.6;
   text-rendering: optimizeLegibility !important; }
   @media (min-width: 600px) {
